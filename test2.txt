@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 209A-1829
+
+ Directory of C:\Users\preetam\Desktop\project1
+
+06/13/2021  11:12 PM    <DIR>          .
+06/13/2021  11:12 PM    <DIR>          ..
+06/13/2021  10:43 PM                 9 test.txt
+06/13/2021  11:12 PM                 0 test2.txt
+               2 File(s)              9 bytes
+               2 Dir(s)  87,603,208,192 bytes free
